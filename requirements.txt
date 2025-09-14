@@ -1,0 +1,14 @@
+torch
+diffusers[torch]
+transformers
+Pillow
+numpy
+trimesh
+accelerate
+fastapi
+uvicorn[standard]
+rembg
+onnxruntime
+shapely
+triangle
+google-genai
